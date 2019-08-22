@@ -1,0 +1,372 @@
+source,target,action,count
+registration,save survey,survey,2822
+save survey,Step 2: Wikipedia,view,245
+Step 2: Wikipedia,Step 3: Wikipedia,edit,14
+Step 3: Wikipedia,Step 4: Wikipedia,view,95
+Step 4: Wikipedia,Step 5: Wikipedia,edit,27
+Step 2: Wikipedia,left Wikipedia,left,18
+save survey,Step 2: Other,view,12
+Step 2: Other,Step 3: Article,view,6
+Step 3: Article,Step 4: Article,view,607
+Step 4: Article,Step 5: Special,view,227
+save survey,Step 2: Special,view,331
+Step 2: Special,Step 3: Article,edit,41
+Step 4: Article,Step 5: User talk,view,58
+save survey,Step 2: Article,view,827
+Step 2: Article,Step 3: Article,view,549
+Step 3: Article,Step 4: Article talk,edit,6
+Step 4: Article talk,Step 5: Article,view,10
+save survey,Step 2: Article,edit,545
+Step 2: Article,Step 3: Article,edit,400
+Step 3: Article,Step 4: Article,edit,218
+Step 4: Article,left Wikipedia,left,141
+Step 2: Special,Step 3: Special,view,341
+Step 3: Special,Step 4: Special,view,500
+Step 4: Special,Step 5: Special,view,467
+save survey,Step 2: User talk,view,149
+Step 2: User talk,Step 3: User,view,17
+Step 3: User,Step 4: User talk,view,38
+Step 4: User talk,Step 5: Wikipedia,view,36
+registration,abandon survey,survey,954
+abandon survey,Step 2: User talk,view,87
+Step 2: User talk,Step 3: User talk,view,14
+Step 3: User talk,Step 4: Special,view,107
+Step 2: Article,Step 3: User talk,view,187
+Step 3: User talk,Step 4: User talk,edit,32
+Step 4: User talk,Step 5: User talk,view,32
+Step 3: Article,Step 4: Special,view,282
+Step 3: Article,left Wikipedia,left,121
+registration,skip survey,survey,449
+skip survey,Step 2: Wikipedia,view,20
+Step 2: Wikipedia,Step 3: User talk,view,49
+Step 3: User talk,Step 4: Main page,view,54
+Step 4: Main page,Step 5: Special,view,111
+save survey,Step 2: Main page,view,612
+Step 2: Main page,Step 3: Main page,view,62
+Step 3: Main page,Step 4: Special,view,119
+Step 4: Article,Step 5: Article,view,648
+Step 2: Article,left Wikipedia,left,132
+save survey,Step 2: Wikipedia,edit,20
+Step 2: Wikipedia,Step 3: Main page,view,21
+Step 3: Main page,Step 4: User talk,view,36
+Step 2: Main page,Step 3: User talk,view,131
+Step 4: Main page,Step 5: Article,view,25
+Step 2: Main page,left Wikipedia,left,59
+abandon survey,Step 2: User,view,39
+Step 2: User,Step 3: User talk,view,11
+Step 3: User talk,Step 4: User talk,view,28
+Step 4: User talk,Step 5: User,view,14
+skip survey,Step 2: Article,view,152
+Step 2: User talk,Step 3: Article,view,21
+Step 2: Main page,Step 3: User,edit,36
+Step 3: User,Step 4: User,edit,62
+Step 4: User,Step 5: User talk,view,22
+skip survey,Step 2: Article,edit,94
+Step 2: Article,Step 3: Special,view,332
+Step 3: Special,Step 4: Article,view,378
+abandon survey,Step 2: Special,view,575
+Step 2: Special,Step 3: Article,view,282
+abandon survey,Step 2: Article,view,119
+Step 3: Special,left Wikipedia,left,45
+skip survey,Step 2: Main page,view,136
+Step 2: Main page,Step 3: Special,view,349
+Step 4: Article,Step 5: Wikipedia,view,14
+Step 2: Special,Step 3: User,view,40
+Step 3: User,Step 4: Main page,view,13
+Step 2: User,Step 3: Main page,view,7
+Step 4: Special,Step 5: Main page,view,94
+Step 4: Special,left Wikipedia,left,74
+Step 4: Special,Step 5: Article,view,309
+Step 3: Article,Step 4: User talk,view,62
+Step 4: User talk,Step 5: Article,view,26
+Step 3: User talk,Step 4: Wikipedia,view,76
+Step 4: Wikipedia,Step 5: Wikipedia,view,101
+Step 3: Special,Step 4: Main page,view,106
+Step 2: User talk,Step 3: User,edit,24
+Step 4: User,Step 5: User,edit,64
+Step 3: User talk,Step 4: Article,view,75
+Step 4: Article,Step 5: Article,edit,248
+Step 2: Special,Step 3: Main page,view,110
+Step 3: Main page,Step 4: Article,view,35
+Step 4: User talk,Step 5: Special,view,55
+Step 2: Article,Step 3: Main page,view,53
+Step 2: Article,Step 3: Wikipedia,view,37
+Step 3: Wikipedia,Step 4: Article,view,20
+abandon survey,Step 2: Main page,view,32
+Step 2: User talk,Step 3: Special,view,72
+Step 4: User talk,Step 5: Main page,view,26
+Step 4: Special,Step 5: User talk,view,31
+Step 3: Article,Step 4: User,edit,16
+Step 4: Main page,Step 5: User talk,view,25
+Step 4: Wikipedia,Step 5: Special,view,39
+Step 2: Wikipedia,Step 3: Wikipedia,view,116
+Step 3: Wikipedia,Step 4: Wikipedia talk,view,3
+Step 4: Wikipedia talk,Step 5: Wikipedia,view,3
+Step 3: User talk,left Wikipedia,left,18
+Step 4: Wikipedia,Step 5: User talk,view,29
+save survey,Step 2: Article talk,view,4
+Step 2: Article talk,Step 3: Special,view,2
+Step 3: Wikipedia,Step 4: Special,view,39
+Step 4: Special,Step 5: Wikipedia,edit,1
+Step 2: Special,Step 3: User talk,view,45
+Step 2: User talk,Step 3: User talk,edit,15
+Step 3: User talk,Step 4: User,view,31
+Step 4: User,Step 5: Article,view,14
+Step 2: Main page,Step 3: Article,view,73
+abandon survey,Step 2: Wikipedia,view,31
+Step 3: Main page,left Wikipedia,left,12
+Step 2: Special,Step 3: Other,edit,2
+Step 3: Other,Step 4: Special,view,6
+Step 4: Special,Step 5: Other,view,5
+Step 2: Wikipedia,Step 3: Special,view,44
+Step 3: Article,Step 4: Main page,view,28
+Step 4: Main page,Step 5: Main page,view,35
+abandon survey,Step 2: Article,edit,25
+Step 2: Wikipedia,Step 3: User,view,8
+Step 3: User,Step 4: Special,view,46
+Step 4: Special,Step 5: Article,edit,53
+Step 3: Wikipedia,left Wikipedia,left,12
+Step 4: User,Step 5: Main page,view,23
+Step 3: User,Step 4: User,view,34
+Step 2: User,Step 3: User,view,13
+Step 4: Special,Step 5: User,edit,16
+Step 2: User talk,Step 3: Main page,view,20
+Step 2: Article,Step 3: User,edit,16
+Step 4: Special,Step 5: Wikipedia,view,30
+Step 4: User,Step 5: Article,edit,1
+Step 2: Wikipedia,Step 3: Article,view,28
+Step 3: Article,Step 4: Other,view,24
+Step 4: Other,Step 5: Other,edit,9
+Step 3: Special,Step 4: Article,edit,63
+Step 3: Article,Step 4: User,view,12
+Step 4: User,Step 5: User,view,39
+Step 4: Article,Step 5: Wikipedia,edit,1
+save survey,Step 2: User,view,30
+Step 2: User,Step 3: Special,view,39
+Step 2: User talk,left Wikipedia,left,13
+Step 4: Article,Step 5: Main page,view,49
+Step 2: Article,Step 3: User,view,25
+Step 3: User,Step 4: Article,view,22
+Step 4: Special,Step 5: User,view,18
+Step 3: Special,Step 4: User,edit,11
+Step 2: Main page,Step 3: Other,view,6
+Step 3: Other,Step 4: Other,view,8
+Step 4: Other,Step 5: Article,view,10
+Step 4: Article,Step 5: Other,view,13
+Step 4: User talk,Step 5: User talk,edit,35
+Step 4: User,Step 5: Wikipedia,view,16
+Step 4: Article,Step 5: Article talk,edit,8
+Step 4: Article,Step 5: User,view,18
+Step 2: Special,left Wikipedia,left,39
+Step 2: Main page,Step 3: User,view,25
+Step 3: User,left Wikipedia,left,12
+save survey,Step 2: Other,edit,10
+Step 2: Other,Step 3: Special,view,3
+Step 3: Special,Step 4: Other,edit,2
+Step 4: Other,Step 5: User,edit,1
+save survey,Step 2: Article talk,edit,2
+Step 2: Article talk,Step 3: Article talk,view,2
+Step 3: Article talk,Step 4: Article talk,view,4
+Step 4: Article talk,Step 5: Main page,view,2
+Step 2: Article,Step 3: Other,view,13
+Step 3: Other,Step 4: Wikipedia,view,1
+Step 4: Wikipedia,Step 5: Main page,view,16
+Step 3: Wikipedia,Step 4: Wikipedia,edit,23
+Step 3: Wikipedia,Step 4: User talk,view,22
+Step 3: Main page,Step 4: User,edit,6
+save survey,Step 2: User,edit,23
+Step 2: User,Step 3: User,edit,23
+Step 3: Other,Step 4: Article,view,12
+Step 2: User talk,Step 3: Wikipedia,view,29
+Step 4: Wikipedia,Step 5: User,edit,6
+Step 3: Wikipedia,Step 4: Article,edit,3
+Step 4: Article talk,Step 5: Wikipedia,view,1
+Step 2: Special,Step 3: Wikipedia,view,19
+Step 4: Main page,Step 5: Wikipedia,view,10
+Step 3: Main page,Step 4: Main page,view,38
+Step 4: User,Step 5: Special,view,57
+Step 2: User,Step 3: Wikipedia,view,3
+Step 3: User talk,Step 4: Article,edit,6
+Step 4: User talk,Step 5: User,edit,20
+Step 2: Special,Step 3: User talk,edit,2
+Step 3: Main page,Step 4: User,view,11
+Step 3: Article,Step 4: Wikipedia,view,27
+Step 4: Wikipedia,left Wikipedia,left,11
+Step 3: Special,Step 4: User talk,view,35
+Step 2: Wikipedia,Step 3: User,edit,7
+Step 2: Wikipedia,Step 3: Wikipedia talk,view,3
+Step 3: Wikipedia talk,Step 4: Wikipedia,view,1
+Step 4: Other,Step 5: Wikipedia,view,4
+Step 2: Other,Step 3: Main page,view,2
+Step 3: Main page,Step 4: Wikipedia talk,view,2
+Step 3: Article,Step 4: Article talk,view,11
+Step 4: Article talk,Step 5: User talk,view,1
+Step 3: User,Step 4: Wikipedia,view,7
+Step 4: Special,Step 5: Other,edit,2
+Step 4: Other,Step 5: Other,view,13
+Step 3: User talk,Step 4: User,edit,27
+Step 2: Other,Step 3: Other,edit,6
+Step 4: Other,left Wikipedia,left,6
+Step 4: User talk,left Wikipedia,left,6
+Step 3: Special,Step 4: Wikipedia,view,23
+Step 4: Wikipedia,Step 5: Article,edit,5
+Step 4: Main page,Step 5: User,view,13
+Step 2: Other,left Wikipedia,left,5
+Step 3: Wikipedia,Step 4: User,edit,9
+Step 2: Special,Step 3: User,edit,6
+skip survey,Step 2: Special,view,28
+Step 2: Wikipedia,Step 3: Other,view,2
+Step 4: Article talk,Step 5: Special,view,4
+Step 4: Main page,left Wikipedia,left,13
+Step 4: Main page,Step 5: User,edit,17
+abandon survey,Step 2: User,edit,8
+Step 4: Wikipedia,Step 5: Other,view,3
+Step 2: Main page,Step 3: Wikipedia,view,24
+Step 2: User talk,Step 3: Article,edit,6
+Step 3: Special,Step 4: User,view,17
+save survey,Step 2: Wikipedia talk,view,2
+Step 2: Wikipedia talk,Step 3: User,view,1
+Step 3: Wikipedia,Step 4: Main page,view,12
+skip survey,Step 2: User talk,view,3
+Step 3: Article,Step 4: User talk,edit,1
+Step 4: User talk,Step 5: Article,edit,2
+Step 4: Wikipedia,Step 5: Article,view,22
+skip survey,Step 2: User,view,5
+Step 3: Other,left Wikipedia,left,4
+Step 2: Other,Step 3: User talk,view,4
+Step 2: Special,Step 3: Other,view,2
+abandon survey,Step 2: Other,view,3
+Step 2: Special,Step 3: Wikipedia,edit,1
+Step 2: Article,Step 3: Article talk,view,10
+Step 4: Article talk,Step 5: User,edit,1
+Step 4: Main page,Step 5: Article,edit,3
+Step 4: Wikipedia,Step 5: Wikipedia talk,view,3
+Step 4: Article,Step 5: User,edit,9
+skip survey,Step 2: Other,view,5
+Step 2: Other,Step 3: User,view,1
+Step 3: User,Step 4: Other,view,1
+Step 3: Wikipedia,Step 4: Other,view,4
+Step 3: Other,Step 4: Other,edit,4
+Step 3: Article,Step 4: Other,edit,1
+Step 4: User talk,Step 5: Article talk,view,2
+Step 2: Article,Step 3: Article talk,edit,4
+Step 3: Article talk,Step 4: Article,view,9
+Step 3: Article talk,Step 4: Main page,view,1
+Step 4: Article talk,left Wikipedia,left,1
+Step 4: Wikipedia talk,left Wikipedia,left,1
+Step 2: Main page,Step 3: Main page,edit,3
+Step 3: Main page,Step 4: Wikipedia,edit,1
+Step 3: Main page,Step 4: Wikipedia,view,10
+Step 4: Article,Step 5: Other,edit,3
+Step 3: Main page,Step 4: Article,edit,2
+Step 2: Other,Step 3: Other,view,4
+Step 2: Main page,Step 3: Article,edit,5
+Step 4: Article,Step 5: Article talk,view,11
+Step 3: User talk,Step 4: Other,view,2
+Step 2: User,left Wikipedia,left,6
+Step 3: Special,Step 4: Other,view,3
+Step 4: Other,Step 5: User talk,view,4
+Step 4: User,left Wikipedia,left,5
+Step 3: Article talk,Step 4: Other,view,1
+Step 4: User,Step 5: User talk,edit,3
+Step 3: Main page,Step 4: Other,view,2
+Step 4: Wikipedia,Step 5: Special,edit,1
+skip survey,Step 2: Article talk,edit,1
+Step 2: Article talk,Step 3: Main page,view,1
+Step 2: Special,Step 3: Wikipedia talk,view,1
+Step 3: Wikipedia talk,Step 4: Special,view,1
+Step 2: User,Step 3: Article,view,4
+Step 3: Main page,Step 4: Main page,edit,3
+Step 4: Main page,Step 5: Other,edit,1
+Step 3: Wikipedia talk,Step 4: Main page,view,2
+Step 2: Article talk,Step 3: Article talk,edit,1
+abandon survey,Step 2: Homepage,view,9
+Step 2: Homepage,Step 3: User talk,view,2
+Step 4: Other,Step 5: Main page,view,1
+save survey,Step 2: Homepage,view,8
+Step 2: Homepage,Step 3: User,edit,3
+Step 3: User,Step 4: Homepage,view,7
+Step 4: Homepage,Step 5: Special,view,8
+Step 2: Main page,Step 3: Homepage,view,6
+Step 3: Homepage,Step 4: Special,view,10
+Step 3: Wikipedia,Step 4: User,view,4
+Step 2: User talk,Step 3: Homepage,view,8
+Step 4: Homepage,Step 5: User,edit,9
+Step 2: Homepage,Step 3: Main page,view,1
+Step 4: Main page,Step 5: Wikipedia talk,view,2
+Step 3: Wikipedia talk,Step 4: Wikipedia talk,edit,1
+Step 4: Wikipedia talk,Step 5: Main page,view,1
+Step 3: Article,Step 4: Homepage,view,4
+Step 4: Homepage,Step 5: Main page,view,2
+Step 2: User talk,Step 3: Other,view,2
+Step 4: Special,Step 5: Homepage,view,9
+Step 3: Other,Step 4: Main page,view,2
+Step 4: Main page,Step 5: Homepage,view,3
+Step 3: Main page,Step 4: Homepage,view,3
+Step 4: Homepage,Step 5: Homepage,view,2
+Step 2: Article,Step 3: User talk,edit,1
+Step 4: Article,Step 5: Homepage,view,6
+save survey,left Wikipedia,left,1
+skip survey,Step 2: User,edit,2
+abandon survey,Step 2: User talk,edit,1
+Step 4: Wikipedia talk,Step 5: Special,view,2
+Step 3: User,Step 4: User talk,edit,1
+Step 4: Homepage,left Wikipedia,left,2
+Step 3: User talk,Step 4: Homepage,view,5
+Step 2: Homepage,Step 3: Special,view,7
+Step 2: Homepage,Step 3: Homepage,view,2
+Step 3: Homepage,Step 4: User,edit,3
+Step 4: User talk,Step 5: Homepage,view,2
+abandon survey,Step 2: Wikipedia talk,view,3
+Step 2: Wikipedia talk,Step 3: Wikipedia,view,3
+Step 2: Wikipedia,Step 3: Article,edit,4
+Step 4: Article talk,Step 5: Article talk,view,2
+Step 3: Special,Step 4: Homepage,view,4
+Step 3: Wikipedia,Step 4: User talk,edit,1
+Step 2: Homepage,Step 3: Article,view,1
+skip survey,Step 2: Homepage,view,1
+Step 3: Homepage,Step 4: User,view,1
+Step 3: Homepage,Step 4: Main page,view,1
+save survey,Step 2: User talk,edit,1
+abandon survey,Step 2: Wikipedia,edit,1
+Step 2: Article,Step 3: Other,edit,2
+Step 4: Homepage,Step 5: Wikipedia,view,1
+Step 3: User,Step 4: Article,edit,1
+abandon survey,left Wikipedia,left,21
+Step 4: User talk,Step 5: Other,view,2
+Step 3: Homepage,Step 4: User talk,edit,1
+Step 2: Homepage,Step 3: Wikipedia,view,1
+skip survey,Step 2: Article talk,view,1
+Step 2: Article talk,left Wikipedia,left,1
+Step 4: Other,Step 5: Special,view,3
+Step 3: Wikipedia,Step 4: Homepage,view,1
+Step 3: Homepage,Step 4: Homepage,view,3
+Step 4: User,Step 5: Homepage,view,2
+Step 2: Article,Step 3: Homepage,view,1
+Step 2: Wikipedia,Step 3: Homepage,view,3
+Step 3: Homepage,left Wikipedia,left,1
+Step 4: Other,Step 5: Article,edit,1
+Step 2: Special,Step 3: Homepage,view,3
+Step 3: Homepage,Step 4: Article,view,2
+Step 3: Other,Step 4: User,view,2
+Step 2: Main page,Step 3: Wikipedia talk,view,1
+Step 3: Special,Step 4: Wikipedia,edit,1
+Step 3: Article talk,Step 4: Article,edit,1
+Step 3: Homepage,Step 4: User talk,view,1
+Step 4: Homepage,Step 5: Article,view,3
+Step 4: Special,Step 5: Article talk,edit,1
+Step 4: Homepage,Step 5: User talk,view,1
+Step 4: Wikipedia talk,Step 5: User talk,view,1
+Step 2: User,Step 3: Homepage,view,1
+Step 3: Special,Step 4: Article talk,view,1
+skip survey,Step 2: Other,edit,1
+Step 4: Wikipedia,Step 5: User,view,2
+Step 4: Main page,Step 5: Other,view,2
+Step 2: Wikipedia talk,Step 3: Wikipedia talk,edit,1
+Step 3: Wikipedia talk,Step 4: Wikipedia talk,view,1
+Step 2: Homepage,left Wikipedia,left,1
+Step 3: Homepage,Step 4: Wikipedia,view,1
+Step 2: Article talk,Step 3: Wikipedia,view,1
+Step 3: User,Step 4: Wikipedia talk,view,1
+Step 3: Article talk,Step 4: Homepage,view,1
+Step 4: Wikipedia,Step 5: Homepage,view,1
